@@ -1,0 +1,13 @@
+name: Friede
+authors:
+  - Joel40
+  - Front7HD
+version: 1.0
+main: de.youdan.friede.Friede
+api-version: 1.13
+
+commands:
+  Friede:
+    aliases:
+      - frieden
+    description: Schliesse mit einen Spieler frieden.
